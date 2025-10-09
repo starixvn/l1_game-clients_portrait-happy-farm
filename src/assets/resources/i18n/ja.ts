@@ -471,6 +471,10 @@ export const languages = {
         "total_bet": "合計ベット",
         "total_win": "合計勝利額",
         "Unexpected_gift_code_error_message": "予期せぬエラーが発生しました。後ほどもう一度お試しください。"
+    },
+    "HappyFarm": {
+        "game_name": "Happy Farm",
+        "game_icon_name": "Happy Farm"
     }
 };
 

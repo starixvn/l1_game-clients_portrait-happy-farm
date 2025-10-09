@@ -471,6 +471,10 @@ export const languages = {
         "total_bet": "Total Bet",
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later."
+    },
+    "HappyFarm": {
+        "game_name": "Happy Farm",
+        "game_icon_name": "Happy Farm"
     }
 };
 

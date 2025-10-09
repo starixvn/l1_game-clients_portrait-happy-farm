@@ -471,6 +471,10 @@ export const languages = {
         "total_bet": "ยอดเดิมพันรวม",
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง"
+    },
+    "HappyFarm": {
+        "game_name": "แฮปปี้ ฟาร์ม",
+        "game_icon_name": "แฮปปี้ ฟาร์ม"
     }
 };
 

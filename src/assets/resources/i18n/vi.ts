@@ -471,6 +471,10 @@ export const languages = {
         "total_bet": "Tổng Cược",
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau."
+    },
+    "HappyFarm": {
+        "game_name": "Nông Trại Vui Vẻ",
+        "game_icon_name": "Nông Trại\nVui Vẻ"
     }
 };
 

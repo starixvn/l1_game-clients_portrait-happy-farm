@@ -471,6 +471,10 @@ export const languages = {
         "total_win": "Jumlah Kemenangan",
         "Unexpected_gift_code_error_message": "Ralat tak dijangka berlaku. Sila cuba lagi kemudian.",
         "Close": "Tutup"
+    },
+    "HappyFarm": {
+        "game_name": "Happy Farm",
+        "game_icon_name": "Happy Farm"
     }
 };
 

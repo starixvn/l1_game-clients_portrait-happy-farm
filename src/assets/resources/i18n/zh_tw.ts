@@ -471,6 +471,10 @@ export const languages = {
         "total_bet": "總投注",
         "total_win": "總獎金",
         "Unexpected_gift_code_error_message": "發生意外錯誤。請稍後重試。"
+    },
+    "HappyFarm": {
+        "game_name": "开心农场",
+        "game_icon_name": "开心农场"
     }
 };
 

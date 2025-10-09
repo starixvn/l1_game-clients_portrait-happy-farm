@@ -475,6 +475,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "Close": "Kapat"
+    },
+    "HappyFarm": {
+        "game_name": "Mutlu Çiftlik",
+        "game_icon_name": "Mutlu Çiftlik"
     }
 };
 
