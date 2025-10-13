@@ -1,4 +1,4 @@
 {
-    "mainNamespace": "Olympub",
+    "mainNamespace": "HappyFarm",
     "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
 }
