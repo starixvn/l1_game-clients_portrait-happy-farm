@@ -1,0 +1,69 @@
+
+tomandjerry.webp
+size: 200,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: true
+  xy: 31, 2
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+chuot
+  rotate: false
+  xy: 93, 66
+  size: 43, 28
+  orig: 43, 29
+  offset: 0, 1
+  index: -1
+dau 1
+  rotate: true
+  xy: 93, 96
+  size: 55, 54
+  orig: 61, 61
+  offset: 3, 4
+  index: -1
+dau 2
+  rotate: false
+  xy: 92, 5
+  size: 55, 57
+  orig: 60, 61
+  offset: 4, 2
+  index: -1
+dau 3
+  rotate: false
+  xy: 149, 96
+  size: 49, 55
+  orig: 61, 61
+  offset: 6, 3
+  index: -1
+duoi
+  rotate: false
+  xy: 149, 0
+  size: 33, 39
+  orig: 33, 40
+  offset: 0, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 0, 27
+  size: 124, 29
+  orig: 143, 37
+  offset: 9, 4
+  index: -1
+tay
+  rotate: true
+  xy: 149, 41
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 31, 64
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1

@@ -1,34 +1,390 @@
 
 decor.webp
-size: 1319,466
+size: 757,218
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-L_fog
+dcL
   rotate: false
-  xy: 1, 1
-  size: 518, 464
-  orig: 603, 552
-  offset: 30, 23
+  xy: 355, 0
+  size: 232, 218
+  orig: 232, 220
+  offset: 0, 1
   index: -1
-R_fog
+dcR1
   rotate: false
-  xy: 962, 98
-  size: 356, 367
-  orig: 540, 429
-  offset: 152, 42
-  index: -1
-bamboo-leaf2
-  rotate: true
-  xy: 962, 72
-  size: 24, 140
-  orig: 24, 140
+  xy: 0, 4
+  size: 353, 214
+  orig: 353, 214
   offset: 0, 0
   index: -1
-circlelight
+dcR2
   rotate: false
-  xy: 521, 18
-  size: 439, 447
-  orig: 439, 447
-  offset: 0, 0
+  xy: 589, 35
+  size: 168, 183
+  orig: 168, 184
+  offset: 0, 1
+  index: -1
+
+decor2.webp
+size: 931,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flyingbird/bird00
+  rotate: false
+  xy: 0, 485
+  size: 190, 41
+  orig: 384, 216
+  offset: 2, 87
+  index: -1
+flyingbird/bird01
+  rotate: false
+  xy: 0, 485
+  size: 190, 41
+  orig: 384, 216
+  offset: 2, 87
+  index: -1
+flyingbird/bird03
+  rotate: false
+  xy: 192, 485
+  size: 191, 41
+  orig: 384, 216
+  offset: 2, 87
+  index: -1
+flyingbird/bird04
+  rotate: false
+  xy: 0, 434
+  size: 187, 49
+  orig: 384, 216
+  offset: 8, 78
+  index: -1
+flyingbird/bird06
+  rotate: false
+  xy: 189, 434
+  size: 187, 49
+  orig: 384, 216
+  offset: 8, 78
+  index: -1
+flyingbird/bird07
+  rotate: false
+  xy: 366, 321
+  size: 185, 53
+  orig: 384, 216
+  offset: 15, 79
+  index: -1
+flyingbird/bird09
+  rotate: false
+  xy: 378, 431
+  size: 183, 49
+  orig: 384, 216
+  offset: 18, 82
+  index: -1
+flyingbird/bird10
+  rotate: false
+  xy: 378, 431
+  size: 183, 49
+  orig: 384, 216
+  offset: 18, 82
+  index: -1
+flyingbird/bird12
+  rotate: false
+  xy: 563, 429
+  size: 183, 49
+  orig: 384, 216
+  offset: 18, 82
+  index: -1
+flyingbird/bird13
+  rotate: false
+  xy: 566, 480
+  size: 180, 46
+  orig: 384, 216
+  offset: 25, 77
+  index: -1
+flyingbird/bird15
+  rotate: false
+  xy: 748, 480
+  size: 180, 46
+  orig: 384, 216
+  offset: 25, 77
+  index: -1
+flyingbird/bird16
+  rotate: false
+  xy: 0, 382
+  size: 182, 50
+  orig: 384, 216
+  offset: 26, 75
+  index: -1
+flyingbird/bird18
+  rotate: false
+  xy: 731, 375
+  size: 180, 52
+  orig: 384, 216
+  offset: 32, 74
+  index: -1
+flyingbird/bird19
+  rotate: false
+  xy: 0, 328
+  size: 180, 52
+  orig: 384, 216
+  offset: 32, 74
+  index: -1
+flyingbird/bird21
+  rotate: false
+  xy: 184, 381
+  size: 180, 51
+  orig: 384, 216
+  offset: 32, 74
+  index: -1
+flyingbird/bird22
+  rotate: false
+  xy: 385, 482
+  size: 179, 44
+  orig: 384, 216
+  offset: 42, 76
+  index: -1
+flyingbird/bird24
+  rotate: false
+  xy: 366, 378
+  size: 180, 51
+  orig: 384, 216
+  offset: 47, 69
+  index: -1
+flyingbird/bird25
+  rotate: false
+  xy: 366, 378
+  size: 180, 51
+  orig: 384, 216
+  offset: 47, 69
+  index: -1
+flyingbird/bird27
+  rotate: false
+  xy: 182, 324
+  size: 182, 55
+  orig: 384, 216
+  offset: 49, 71
+  index: -1
+flyingbird/bird28
+  rotate: false
+  xy: 553, 318
+  size: 182, 55
+  orig: 384, 216
+  offset: 49, 71
+  index: -1
+flyingbird/bird30
+  rotate: false
+  xy: 737, 318
+  size: 182, 55
+  orig: 384, 216
+  offset: 49, 71
+  index: -1
+flyingbird/bird31
+  rotate: false
+  xy: 748, 429
+  size: 181, 49
+  orig: 384, 216
+  offset: 56, 77
+  index: -1
+flyingbird/bird33
+  rotate: false
+  xy: 548, 376
+  size: 181, 51
+  orig: 384, 216
+  offset: 56, 72
+  index: -1
+flyingbird/bird34
+  rotate: false
+  xy: 366, 263
+  size: 181, 56
+  orig: 384, 216
+  offset: 53, 70
+  index: -1
+flyingbird/bird36
+  rotate: false
+  xy: 549, 260
+  size: 181, 56
+  orig: 384, 216
+  offset: 53, 70
+  index: -1
+flyingbird/bird37
+  rotate: false
+  xy: 0, 270
+  size: 180, 56
+  orig: 384, 216
+  offset: 54, 70
+  index: -1
+flyingbird/bird39
+  rotate: false
+  xy: 555, 197
+  size: 183, 60
+  orig: 384, 216
+  offset: 45, 78
+  index: -1
+flyingbird/bird40
+  rotate: false
+  xy: 555, 197
+  size: 183, 60
+  orig: 384, 216
+  offset: 45, 78
+  index: -1
+flyingbird/bird42
+  rotate: false
+  xy: 182, 267
+  size: 182, 55
+  orig: 384, 216
+  offset: 49, 81
+  index: -1
+flyingbird/bird43
+  rotate: false
+  xy: 732, 259
+  size: 182, 57
+  orig: 384, 216
+  offset: 51, 76
+  index: -1
+flyingbird/bird45
+  rotate: false
+  xy: 0, 208
+  size: 182, 57
+  orig: 384, 216
+  offset: 51, 76
+  index: -1
+flyingbird/bird46
+  rotate: false
+  xy: 184, 204
+  size: 182, 57
+  orig: 384, 216
+  offset: 51, 76
+  index: -1
+flyingbird/bird48
+  rotate: false
+  xy: 740, 197
+  size: 183, 60
+  orig: 384, 216
+  offset: 54, 80
+  index: -1
+flyingbird/bird49
+  rotate: false
+  xy: 370, 136
+  size: 183, 62
+  orig: 384, 216
+  offset: 56, 84
+  index: -1
+flyingbird/bird51
+  rotate: false
+  xy: 555, 133
+  size: 183, 62
+  orig: 384, 216
+  offset: 56, 84
+  index: -1
+flyingbird/bird52
+  rotate: false
+  xy: 0, 142
+  size: 183, 60
+  orig: 384, 216
+  offset: 57, 84
+  index: -1
+flyingbird/bird54
+  rotate: false
+  xy: 185, 138
+  size: 183, 60
+  orig: 384, 216
+  offset: 57, 84
+  index: -1
+flyingbird/bird55
+  rotate: false
+  xy: 185, 138
+  size: 183, 60
+  orig: 384, 216
+  offset: 57, 84
+  index: -1
+flyingbird/bird57
+  rotate: false
+  xy: 740, 132
+  size: 183, 63
+  orig: 384, 216
+  offset: 57, 72
+  index: -1
+flyingbird/bird58
+  rotate: false
+  xy: 0, 10
+  size: 183, 65
+  orig: 384, 216
+  offset: 59, 73
+  index: -1
+flyingbird/bird60
+  rotate: false
+  xy: 185, 6
+  size: 183, 65
+  orig: 384, 216
+  offset: 59, 73
+  index: -1
+flyingbird/bird61
+  rotate: false
+  xy: 0, 77
+  size: 183, 63
+  orig: 384, 216
+  offset: 60, 79
+  index: -1
+flyingbird/bird63
+  rotate: false
+  xy: 185, 73
+  size: 183, 63
+  orig: 384, 216
+  offset: 60, 79
+  index: -1
+flyingbird/bird64
+  rotate: false
+  xy: 370, 71
+  size: 183, 63
+  orig: 384, 216
+  offset: 60, 79
+  index: -1
+flyingbird/bird66
+  rotate: false
+  xy: 368, 200
+  size: 185, 58
+  orig: 384, 216
+  offset: 64, 78
+  index: -1
+flyingbird/bird67
+  rotate: false
+  xy: 555, 67
+  size: 185, 63
+  orig: 384, 216
+  offset: 66, 72
+  index: -1
+flyingbird/bird69
+  rotate: false
+  xy: 559, 0
+  size: 185, 65
+  orig: 384, 216
+  offset: 68, 72
+  index: -1
+flyingbird/bird70
+  rotate: false
+  xy: 559, 0
+  size: 185, 65
+  orig: 384, 216
+  offset: 68, 72
+  index: -1
+flyingbird/bird72
+  rotate: false
+  xy: 746, 0
+  size: 185, 65
+  orig: 384, 216
+  offset: 68, 72
+  index: -1
+flyingbird/bird73
+  rotate: false
+  xy: 742, 67
+  size: 187, 63
+  orig: 384, 216
+  offset: 69, 81
+  index: -1
+flyingbird/bird75
+  rotate: false
+  xy: 370, 2
+  size: 187, 63
+  orig: 384, 216
+  offset: 69, 81
   index: -1
