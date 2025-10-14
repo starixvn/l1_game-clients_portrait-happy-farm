@@ -355,7 +355,7 @@ export const languages = {
         "mega_win": "Thắng Siêu Lớn",
         "multiplier": "Số Nhân",
         "multiplier_preview_odds": "Biểu tượng số nhân sẽ được áp dụng khi có kết quả thắng.",
-        "no_winning_combination": "Không Trúng",
+        "no_winning_combination": "Không Trúng Biểu Tượng Nào",
         "payout": "Trả Thưởng",
         "Payout-title": "Trả thưởng",
         "paytable": "Trả thưởng",
@@ -392,7 +392,7 @@ export const languages = {
         "you_win_free_spin": "Bạn đã thắng",
         "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 500x",
         "btn_buy_free_spins": "Mua\nFree Spins",
-        "msg_free_spins": "Hệ Số Nhân tăng dần trong Free Spin",
+        "msg_free_spins": "Hệ Số Nhân cộng dồn trong Free Spin",
         "turbo_icon": "Siêu Tốc"
     },
     "Olympub": {
