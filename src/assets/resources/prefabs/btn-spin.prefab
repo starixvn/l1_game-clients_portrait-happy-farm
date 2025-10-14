@@ -876,7 +876,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -10.762,
       "z": 0
     },
     "_lrot": {
@@ -916,7 +916,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 111.41,
+      "width": 97.58,
       "height": 48
     },
     "_anchorPoint": {
@@ -955,8 +955,8 @@
     "_string": "999",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 48,
-    "_fontSize": 48,
+    "_actualFontSize": 85,
+    "_fontSize": 80,
     "_fontFamily": "Arial",
     "_lineHeight": 48,
     "_overflow": 0,
@@ -1461,6 +1461,7 @@
       "__id__": 0
     },
     "fileId": "b681wN0udOI7V5sBf+Ta3u",
+    "instance": null,
     "targetOverrides": null
   }
 ]
