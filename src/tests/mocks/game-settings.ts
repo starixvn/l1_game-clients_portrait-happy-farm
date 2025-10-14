@@ -1,7 +1,7 @@
 export const settings = {
-    id: 139,
-    name: "Olympub",
-    tolgeeNamespaces: ["Olympub", "cascadingslot"],
+    id: 131,
+    name: "HappyFarm",
+    tolgeeNamespaces: ["HappyFarm", "cascadingslot"],
     durations: {
         wholeRound: 14,
         lockingBet: 3,
@@ -14,7 +14,7 @@ export const settings = {
     },
     isMiniGame: false,
     numberOfRoundHistory: 11,
-    observerNamespace: "Olympub",
+    observerNamespace: "HappyFarm",
     validateBalanceWhenBet: true,
 };
 

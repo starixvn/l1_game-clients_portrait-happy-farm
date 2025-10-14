@@ -1,6 +1,6 @@
 export const GAME_NAME = "HappyFarm";
 export const settings = {
-    id: 139,
+    id: 131,
     name: GAME_NAME,
     observerNamespace: GAME_NAME,
     tolgeeNamespaces: [GAME_NAME, "cascadingslot"],
